@@ -19,3 +19,6 @@ Original post from the #ShadowBrokers https://steemit.com/shadowbrokers/@theshad
 - `85e03866ae7eaaedd9462054b62a10f2180983bdfd086b29631173ae4422f524` odd.tar.xz
 - `df468f01e65f3f1bc18f844d7f7bac8f8eec3664a131e2fb67ae3a55f8523004` swift.tar.xz
 - `5bb9ddfbcefb75d017a9e745b83729390617b16f4079356579ef00e5e6b5fbd0` windows.tar.xz
+
+
+在 linux下通过密码: Reeeeeeeeeeeeeee和以下命令解压这三个文件
